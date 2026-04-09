@@ -1,0 +1,124 @@
+<html>
+<head>
+<title>Vikas Automobiles, Satna , C&F Agent, Lube Distributor</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VKTR35DMV3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VKTR35DMV3');
+</script>
+<title>Contact Us</title>
+<link rel="Stylesheet" href="css/contact.css">
+  <script src="analytics.js"></script>
+<div class="header">
+<img src="images/logo1.jpg" alt="Vikas Automobiles" width="50%" height="auto">
+
+<div class="header-right">
+<a class="active"  href="index.html">Home</a>
+<a href="contact.html" >Contact us </a>
+<a href="product.html">Product</a>
+<a href="gallery.html">Gallery</a>
+
+</div>
+</div>
+<marquee behaviour="scroll" direction="left">
+<img src="images/scrol.jpg" height ="400px" >
+</marquee>
+<body>
+
+<div class="text">
+<h1 style="color: CC0114; ">VIKAS AUTOMOBILES, SATNA
+<br>HPCL LUBES 	
+<br>C&F AGENT
+<br>&
+<br>DISTRIBUTOR
+<br>(SATNA, REWA, SIDHI, SINGRAULI, PANNA, CHATTARPUR, TIKAMGAR) 
+
+<h1 style="font-size:30;color:000694">Address :- </h1>
+<h1 style="color:000694">Vikas Automobiles, <br>Near Yadav Dharmkanta, Rewa Road,<br> Satna, Madhya Pradesh 485001</h1>
+</div>
+
+<h1>Our Valuable Customers</h1>
+<table>
+<tr>
+
+<td><img src="images/AdityaBirlaCement.jpg"height="100" width="100%" hspace=5></td>
+<td><img src="images/jcb.jpg"height="100" width="100%"hspace=5></td>
+<td><img src="images/kjs.png"height="100" width="100%"hspace=5></td>
+<td><img src="images/Adani-power-logo.png"height="100" width="100%"hspace=5></td>
+<td><img src="images/M.P_Birla_Group_logo.jpg"height="100" width="100%"hspace=5></td>
+<td><img src="images/EssarPower.png"height="100" width="100%"hspace=5></td>
+<td><img src="images/AccCement.jpg" height="100" width="100%"hspace=5></td>
+</tr>
+
+
+</table>
+<h2 style="text-align:center; color: white; background-color : red;">All Types of HPCL  Industrial and Automotive Lubricants Available Here </h2>
+
+<h1><b style="font-size:50;backbground-color:#85C1E9">OUR ACHIEVEMENT</b></h1>
+<div class="awards">
+<img src="images/new.jpg"  height="auto" width="98%" style="float:right">
+<img src="images/awards1.jpeg"  height="auto" width="49%" style="float:left">
+<img src="images/awards2.jpeg"  height="auto" width="49%" style="float:right">
+<img src="images/awards3.jpeg"  height="auto" width="49%" style="float:left">
+<img src="images/awards4.jpeg"  height="auto" width="49%" style="float:right">
+<img src="images/awards5.jpeg"  height="auto" width="90%" style="float:left">
+<img src="images/awards6.jpeg"  height="auto" width="90%" style="float:right">
+<img src="images/awards7.jpeg"  height="auto" width="90%" style="float:left">
+<img src="images/awards8.jpeg"  height="auto" width="90%" style="float:right">
+<img src="images/awards9.jpeg"  height="auto" width="90%" style="float:left">
+<img src="images/awards10.jpeg" height="auto" width="90%" style="float:right">
+
+
+</div>
+<br>
+
+
+
+<!-- Cloudflare Pages Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "d1844b9d82254491b36269e546b4710f"}'></script><!-- Cloudflare Pages Analytics --></body>
+<hr style="height:10px">
+
+<div class="footer">
+<p style="text-align:center"><span>&copy</span> 2026 Vikas Automobiles. All rights reserved.
+<br>
+Customer Care : 9827003016</p>
+
+<div class="buttons">
+<p>
+<img src = "images/download.jpg" alt = "HP Lubricants"  > 
+<button>
+<a class="PDvGL q8cvFf" href="tel:+91-98270-03016" data-tracking-element-type="3" jslog="56037; track:impression,click" itemprop="telephone" dir="ltr"  ><img src="images/call.png" height = "50px" width = "50px"> </a>
+</button>
+<button>
+<a href = "mailto: hpclcfasatna@gmail.com" target = "blank" ><img src= "images/mail.png" height = "50px" width = "50px"></a>
+</button>
+<button>
+<a href ="https://twitter.com/cfa_hp_satna" target="blank"> <img src="images/twitter.png" height = "50px" width = "50px"></a>
+</button>
+<button>
+<a href ="https://wa.me/919827003016" target="blank"><img src="images/whatsapp.png" height="50px" width="50px"></a>
+</button>
+<button>
+<a href ="https://www.instagram.com/hpclcfasatna" target="blank"><img src="images/insta.jpeg" height="50px" width="50px"></a>
+</button>
+</div>
+</p>
+
+
+
+
+
+
+
+
+
+</div>
+
+</head>
+</html> 
+
